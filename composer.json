@@ -1,6 +1,9 @@
 {
-	"name": "webvimark/date-range-picker",
+	"name": "examen-centrym/date-range-picker",
 	"description": "dangrossman daterangepicker yii 2 gridview",
+	"require": {
+		"yiisoft/yii2-bootstrap4": "~2.0.0"
+	},
 	"autoload": {
 		"psr-4": {
 			"webvimark\\extensions\\DateRangePicker\\": ""
